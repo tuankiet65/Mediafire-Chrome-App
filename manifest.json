@@ -1,0 +1,14 @@
+{
+"name": "Mediafire",
+"description": "Open Mediafire homepage",
+"version": "0.1",
+"icons": { "128": "icon.png" },
+"app": {
+"urls": [
+"http://mediafire.com"
+],
+"launch": {
+"web_url": "http://mediafire.com"
+}
+}
+}
